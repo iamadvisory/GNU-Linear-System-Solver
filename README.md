@@ -4,7 +4,7 @@ A lightweight C utility to solve 2x2 systems of linear equations with high-preci
 
 ## Features
 - **Accurate:** Uses Cramer's rule with `double` precision and `EPS` thresholding.
-- **Visual:** High-quality plots with infinite lines and intersection markers.
+- **Visual:** High-quality plots using gnuplot.
 - **Robust:** Handles vertical lines, parallel lines, and overlapping equations.
 - **Multilingual:** Supports English (default) and Russian.
 
